@@ -1,0 +1,15 @@
+D:\Step2Gen\Practice\C#\FileHandling\bin\Debug\net6.0\FileHandling.exe
+D:\Step2Gen\Practice\C#\FileHandling\bin\Debug\net6.0\FileHandling.deps.json
+D:\Step2Gen\Practice\C#\FileHandling\bin\Debug\net6.0\FileHandling.runtimeconfig.json
+D:\Step2Gen\Practice\C#\FileHandling\bin\Debug\net6.0\FileHandling.dll
+D:\Step2Gen\Practice\C#\FileHandling\bin\Debug\net6.0\FileHandling.pdb
+D:\Step2Gen\Practice\C#\FileHandling\obj\Debug\net6.0\FileHandling.csproj.AssemblyReference.cache
+D:\Step2Gen\Practice\C#\FileHandling\obj\Debug\net6.0\FileHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Step2Gen\Practice\C#\FileHandling\obj\Debug\net6.0\FileHandling.AssemblyInfoInputs.cache
+D:\Step2Gen\Practice\C#\FileHandling\obj\Debug\net6.0\FileHandling.AssemblyInfo.cs
+D:\Step2Gen\Practice\C#\FileHandling\obj\Debug\net6.0\FileHandling.csproj.CoreCompileInputs.cache
+D:\Step2Gen\Practice\C#\FileHandling\obj\Debug\net6.0\FileHandling.dll
+D:\Step2Gen\Practice\C#\FileHandling\obj\Debug\net6.0\refint\FileHandling.dll
+D:\Step2Gen\Practice\C#\FileHandling\obj\Debug\net6.0\FileHandling.pdb
+D:\Step2Gen\Practice\C#\FileHandling\obj\Debug\net6.0\FileHandling.genruntimeconfig.cache
+D:\Step2Gen\Practice\C#\FileHandling\obj\Debug\net6.0\ref\FileHandling.dll
